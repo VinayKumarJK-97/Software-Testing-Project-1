@@ -1,1 +1,1 @@
-# Software-Testing-Project-1
+# SoftwareTestingProject-1
